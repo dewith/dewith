@@ -12,4 +12,4 @@ I'm an industrial engineer interested in data analytics and applied machine lear
 
 ---
 
-<a href="https://www.adamalston.com/"><img height="147px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&theme=graywhite" /><img align="right" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="147px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&theme=graywhite" /><img height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&theme=graywhite" /></a>
