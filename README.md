@@ -17,8 +17,8 @@ I'm an industrial engineer interested in data analytics and applied machine lear
 
 
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&theme=graywhite" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&theme=graywhite" />
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&theme=graywhite" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&theme=graywhite" />
 
 
 ---
