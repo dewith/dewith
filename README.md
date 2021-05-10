@@ -1,7 +1,3 @@
-<!-- # Hi, I'm Dewith 👋-->
-
-<!-- I'm an industrial engineer interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. -->
-
 <h1 align="left"> Hey there, I'm Dewith 👋 </h1>
 
 <p align="left">
@@ -22,8 +18,9 @@
 - 🌱 **I’m currently learning:** data engineering
 - 👯 **I’m looking to collaborate on:** data science projects/competitions
 - 💬 **Ask me about:** data science, memes, kdramas, Bad Bunny
+- ⚡ **Hobbies:** books, internet, music, series, pet my cat
 - 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** I don't know how to divide by 2-digits : )
+
 
 ---
 
