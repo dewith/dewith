@@ -1,5 +1,5 @@
 # Hi, I'm Dex 👋
-[![Twitter Badge](https://img.shields.io/badge/-@DewithMiramon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon)](https://twitter.com/DewithMiramon) [![Linkedin Badge](https://img.shields.io/badge/-dewithmiramon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/)](https://www.linkedin.com/in/dewithmiramon/) [![Medium Badge](https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@dewith)](https://medium.com/@dewith) [![Gmail Badge](https://img.shields.io/badge/-dewithmiramon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com)](mailto:dewithmiramon@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/)](https://dewith.co/)
+[![Twitter Badge](https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon)](https://twitter.com/DewithMiramon) [![Linkedin Badge](https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/)](https://www.linkedin.com/in/dewithmiramon/) [![Medium Badge](https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@dewith)](https://medium.com/@dewith) [![Gmail Badge](https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com)](mailto:dewithmiramon@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/)](https://dewith.co/)
 
 I'm an industrial engineer interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen.
 
@@ -17,8 +17,8 @@ I'm an industrial engineer interested in data analytics and applied machine lear
 
 
 
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&theme=graywhite" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&theme=graywhite" />
+<img align="right" height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&theme=graywhite" />
+<img height="178em" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&theme=graywhite" />
 
 
 ---
