@@ -2,9 +2,9 @@
 
 <!-- I'm an industrial engineer interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. -->
 
-<h1 align="center"> Hi, I'm Dewith 👋 </h1>
+<h1 align="center"> Hey there, I'm Dewith 👋 </h1>
 
-<h3 align="center">  I'm an industrial engineer interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. </h3> <br>
+<h3 align="center">  I'm an industrial engineer interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen. </h3> <br>
 
 <p align="center">
 <a href="https://dewith.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/"></a>
@@ -16,8 +16,7 @@
 
 ---
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
-<!-- <img align="right" height="160" width="250" src="data.gif"> -->
-<img align="right" height="160" width="160" src="analyze_this.gif">
+<img align="right" height="160" width="250" src="data.gif">
 
 - 🔭 **I’m currently working on:** ML models
 - 🌱 **I’m currently learning:** data engineering
@@ -30,12 +29,4 @@
 
 <a href="https://www.adamalston.com/"><img height="149px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="149px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
 
-
-
-
-
-<!--
-<p align="center">
-<img align="center" height="140" width="140" src="analyze_this.gif">
-  </p>
--->
+---
