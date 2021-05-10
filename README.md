@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Dex 👋
 
-<!--
-**dewith/dewith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an industrial engineer interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ML models 
+- 🌱 I’m currently learning Data Engineering
+- 👯 I’m looking to collaborate on data science projects/competitions.
+- 🤔 I’m looking for help with Kedro & Airflow
+- 💬 Ask me about data science, K-dramas, Bad Bunny. 
+- 📫 How to reach me: LinkedIn, Email, Twitter
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can't divide by 2-digits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Don't panic
