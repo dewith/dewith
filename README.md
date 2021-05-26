@@ -1,12 +1,14 @@
 <h1 align="left"> Hey there, I'm Dewith 👋 </h1>
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
-   <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
-   <a href="mailto:dewithmiramon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
-   <a href="https://dewithmiramon.com/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewithmiramon.com-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/"></a>
-   <a href="https://blog.dewithmiramon.com/"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Hashnode&link=https://blog.dewithmiramon.com/"></a>
-   <a href="https://medium.com/@dewith"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@dewith"></a>
+
+   <a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-0075b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a> 
+   <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-08a0e9?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
+   <a href="mailto:dewithmiramon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-eb4336?style=flat&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
+     <a href="https://dewithmiramon.com/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewithmiramon.com-orange?style=flat&logo=squarespace&logoColor=white&link=https://dewithmiramon.com/"></a>
+   <a href="https://blog.dewithmiramon.com/"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-2962ff?style=flat&logo=Hashnode&link=https://blog.dewithmiramon.com/"></a>
+   <a href="https://medium.com/@dewith"><img alt="Gmail" src="https://img.shields.io/badge/-@dewith-51a652?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@dewith"></a>
+
 </p>
 
 <h3 align="left">  I'm an industrial engineer who is interested in data analytics
@@ -33,6 +35,16 @@
 
 <!-- 
 [![Visits Badge](https://badges.pufler.dev/visits/dewith/dewith)](https://badges.pufler.dev) 
+
+   <a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
+   <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
+   <a href="mailto:dewithmiramon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
+   <a href="https://dewithmiramon.com/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewithmiramon.com-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/"></a>
+   <a href="https://blog.dewithmiramon.com/"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Hashnode&link=https://blog.dewithmiramon.com/"></a>
+   <a href="https://medium.com/@dewith"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@dewith"></a>
+
+
+
 
 <a href="https://dewith.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-orange?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/"></a>
 <a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a> 
