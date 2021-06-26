@@ -31,7 +31,7 @@
 
 ---
 
-<a href="https://dewithmiramon.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+<a href="https://dewithmiramon.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite&hide=jupyter%20notebook" /></a>
 
 <!-- 
 [![Visits Badge](https://badges.pufler.dev/visits/dewith/dewith)](https://badges.pufler.dev) 
