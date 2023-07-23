@@ -1,36 +1,36 @@
-<h1 align="left"> Hey there, I'm Dewith 👋 </h1>
+<h1 align="left"> Hi, I'm Dewith.</h1>
+
+
+
+<h3 align="left"> Engineer. Optimist. Beauty enjoyer. Internet citizen. Accelerationism enthusiast. </h3>
+
+- 🔭 **I’m currently working on:** Deep Learning and NLP
+- 🌱 **I’m currently learning:** Transformers and RL
+- 👯 **I’m looking to collaborate on:** AI startup ideas
+- ⚡ **Hobbies:** books, internet, music, series
+
 
 <p align="left">
 
    <a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-0075b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a> 
    <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-08a0e9?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
    <a href="mailto:dewithmiramon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-eb4336?style=flat&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
-     <a href="https://dewithmiramon.com/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewithmiramon.com-orange?style=flat&logo=squarespace&logoColor=white&link=https://dewithmiramon.com/"></a>
+
+   <!--
+   <a href="https://dewithmiramon.com/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewithmiramon.com-orange?style=flat&logo=squarespace&logoColor=white&link=https://dewithmiramon.com/"></a>
    <a href="https://blog.dewithmiramon.com/"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-2962ff?style=flat&logo=Hashnode&link=https://blog.dewithmiramon.com/"></a>
    <a href="https://medium.com/@dewith"><img alt="Gmail" src="https://img.shields.io/badge/-@dewith-51a652?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@dewith"></a>
-
+   -->
 </p>
 
-<h3 align="left">  I'm an industrial engineer who is interested in data analytics
-  and applied machine learning. Enthusiast of graphic design and 
-  illustration. Internet citizen. 
-</h3>
-
----
-
-<!-- credits for gif https://gph.is/g/ZWg5jr7 -->
+<!-- credits for gif https://gph.is/g/ZWg5jr7 
 <img align="right" height="150" width="210" src="data.gif">
-
-- 🔭 **I’m currently working on:** ML models
-- 🌱 **I’m currently learning:** data engineering
-- 👯 **I’m looking to collaborate on:** data science projects/competitions
-- 💬 **Ask me about:** data science, memes, kdramas, Bad Bunny
-- ⚡ **Hobbies:** books, internet, music, series, pet my cat
-- 😄 **Pronouns:** he/him
+-->
 
 
----
 
+
+<!-- 
 <a href="https://dewithmiramon.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite&hide=jupyter%20notebook" /></a>
 
 <!-- 
