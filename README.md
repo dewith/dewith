@@ -1,8 +1,8 @@
-<h1 align="left"> Hi, I'm Dewith.</h1>
+# Hi, I'm Dewith
 
 
 
-<h3 align="left"> Engineer. Optimist. Beauty enjoyer. Internet citizen. Accelerationism enthusiast. </h3>
+### Engineer. Optimist. Beauty enjoyer. Internet citizen. Accelerationism enthusiast.
 
 - 🔭 **I’m currently working on:** Deep Learning and NLP
 - 🌱 **I’m currently learning:** Transformers and RL
