@@ -1,1 +1,2 @@
-# Engineer. Optimist. Beauty enjoyer. Internet citizen. AI enthusiast.
+### Chasing technological miracles to engineer a brighter future.
+### Have a little fAIth.
